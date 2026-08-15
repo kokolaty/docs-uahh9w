@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-k85s81.salamduit.online/sitemap.xml
